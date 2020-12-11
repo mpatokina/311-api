@@ -1,0 +1,19 @@
+h1 {
+    color: blue
+}
+body {
+    background-color: aqua;    ;
+}
+.button {
+    color: white;
+    background-color: blue;
+    font-size: 25px;
+    border-radius: 12px;
+}
+
+#police {
+    color: white;
+    background-color: red;
+    font-size: 20px;
+    border-radius: 12px;
+}
